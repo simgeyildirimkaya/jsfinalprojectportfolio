@@ -1,0 +1,37 @@
+@charset "UTF-8";
+h1{
+    color: white;
+}
+body{
+    background-color: rgb(76, 145, 76);
+}
+
+table{
+    background-color: rgb(134, 199, 134);
+    border: 1px solid black;
+    width: 600px;
+    border-collapse: collapse;
+}
+tr, th, td{
+    border: 1px solid black;
+    padding: 10px;
+}
+img{
+    border: 3px solid rgb(64, 126, 64);
+    padding: 10px;
+    
+}
+.my_img{
+    text-align: center;
+}
+caption{
+    color: white;
+    caption-side: bottom;
+    margin: 10px;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: green
+}
